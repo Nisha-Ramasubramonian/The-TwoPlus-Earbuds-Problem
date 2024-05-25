@@ -1,8 +1,5 @@
   """
 Module with test simulation function to help pick the optimal number of units to produce.
-BANA 5440 - Assignment 1 (Group)
-Author: Maxwell Barnes, Justin Bowser, Elise Donkor, Rohini Iyengar, Nisha Ramasubramonian
-Date: November 9, 2022
 """
 #import necessary modules
 import numpy as np
