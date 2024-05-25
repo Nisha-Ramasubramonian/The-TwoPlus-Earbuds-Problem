@@ -1,5 +1,5 @@
 The-TwoPlus-Earbuds-Problem
-Team Project- Members: Nisha Ramasubramonian, Justin Bowser, Elise Donkor, Rohini Iyengar, Maxwell Barnes
+Team: Nisha Ramasubramonian, Justin Bowser, Elise Donkor, Rohini Iyengar, Maxwell Barnes
 
 Task: Calculate how many to manufacture to satisfy customer needs as well as profits. Resolve this dilemma and determine the optimal number of TwoPlus Earbuds Xs to manufacture.
 
